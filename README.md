@@ -1,55 +1,43 @@
-<p align="center">
-  <!-- <a href="https://dunwu.github.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/dunwu/images/master/common/dunwu1-logo-200.png" alt="logo" width="150px" />
-  </a> -->
-  <br>
-  <h1 align="center">Keep Simple</h1>
-  <p align="center">
-    <code>Java Developer</code> • <code>AI Enthusiast</code> • <code>Python Learner</code>
-  </p>
-</p>
+### Hi there, I'm amyaxy 👋
 
-<p align="center">
-  <a href="mailto:3132670669@qq.com">
-    <img src="https://img.shields.io/badge/Email-3132670669@qq.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/amyaxy">
-    <img src="https://img.shields.io/badge/GitHub-amyaxy-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+> _"Simplicity is the ultimate sophistication — keep it simple."_
 
-## 👋 关于我
+---
 
-- 🍵 **Java 开发者** | **AI 爱好者** | **持续学习者**
-- 👀 目前正在深入学习 **Python** 和 **AI** 相关技术
-- 🎯 目标：构建高效、智能的软件解决方案
-- 🌱 坚信"**保持简单**"是解决复杂问题的关键
-- 🤝 期待与志同道合的开发者合作共创项目
+#### 🧠 About Me
 
- <!-- ## 📈 GitHub Stats  -->
+- 🚀 Founder of [muyi-tech](https://github.com/muyi-tech), maintaining [muyi-framework](https://github.com/muyi-tech/muyi-framework) — a Spring Boot 4 / Java 21 enterprise framework (BOM / Parent / Commons / Starter), clean-room open source under Apache 2.0, published to Maven Central.
+- 🤖 Active contributor to [AgentScope Java](https://github.com/agentscope-ai/agentscope-java), working on **tool call** and **state persistence**.
+- 😄 Focused on **AI applications** and **Java engineering** — proficient in Spring AI, Spring AI Alibaba, AgentScope Java, LangChain, putting AI skills into **real production practice** in the enterprise.
+- 📫 [3132670669@qq.com](mailto:3132670669@qq.com) || [github.com/amyaxy](https://github.com/amyaxy)
+- 🍵 **Keep it simple** — simplicity is the ultimate sophistication.
+- 🌱 Currently exploring: **LangChain ecosystem**.
+- 🤝 Open to collaborating on Java × AI open-source projects.
 
-<div align="left">
-   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=3132670669&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" /> 
-  <br><br>  -->
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3132670669&layout=compact&theme=default&hide_border=true&langs_count=6" alt="最常使用语言" />
-  <br><br> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=3132670669&theme=github&hide_border=true&area=true" alt="贡献图" width="100%"/> -->
- 
-</div>
+---
 
+#### 🔥 Tech Stack & Interests
 
-## 💭 个人格言
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/-Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring AI Alibaba](https://img.shields.io/badge/-Spring%20AI%20Alibaba-FF6A00?style=flat-square&logo=alibaba&logoColor=white)
+![AgentScope Java](https://img.shields.io/badge/-AgentScope%20Java-6C5CE7?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-> "Simplicity is the ultimate sophistication." - Leonardo da Vinci
-> 
-> 在技术的世界里，保持简单往往是最复杂、最优雅的解决方案。
+---
 
-## 
+#### 🤖 AI Era Focus
 
-<p align="center">
-  <i>✨ 保持简单，专注创造 ✨</i>
-</p>
+| Area | What I'm Exploring |
+|------|-------------------|
+| 🤖 AI Ecosystem | Spring AI / Spring AI Alibaba · LangChain · AgentScope Java — agent workflows, RAG pipelines & agent app contributions |
+| 🏭 Enterprise Practice | Putting AI skills into real production — from PoC to business impact |
+| 🍵 Java Enterprise | muyi-framework: BOM / Parent / Commons / Starter on Maven Central |
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=3132670669&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+---
+
+#### 📡 Find Me
+
+📧 [3132670669@qq.com](mailto:3132670669@qq.com) • 🔗 [GitHub](https://github.com/amyaxy) • 🌐 [muyi-tech](https://github.com/muyi-tech)
