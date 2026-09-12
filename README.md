@@ -6,9 +6,9 @@
 
 #### 🧠 About Me
 
-- 🚀 Founder of [muyi-tech](https://github.com/muyi-tech), maintaining [muyi-framework](https://github.com/muyi-tech/muyi-framework) — a Spring Boot 4 / Java 21 enterprise framework (BOM / Parent / Commons / Starter), clean-room open source under Apache 2.0, published to Maven Central.
+- 🚀 Founder of [muyi-tech](https://github.com/muyi-tech), maintaining [muyi-framework](https://github.com/muyi-tech/muyi-framework) — Spring Boot 4 / Java 21 enterprise framework (Apache 2.0, Maven Central).
 - 🤖 Active contributor to [AgentScope Java](https://github.com/agentscope-ai/agentscope-java), working on **tool call** and **state persistence**.
-- 😄 Focused on **AI applications** and **Java engineering** — proficient in Spring AI, Spring AI Alibaba, AgentScope Java, LangChain, putting AI skills into **real production practice** in the enterprise.
+- 😄 Focused on **AI applications** & **Java engineering** — Spring AI / Spring AI Alibaba / AgentScope / LangChain, delivering AI into production.
 - 📫 [3132670669@qq.com](mailto:3132670669@qq.com) || [github.com/amyaxy](https://github.com/amyaxy)
 - 🍵 **Keep it simple** — simplicity is the ultimate sophistication.
 - 🌱 Currently exploring: **LangChain ecosystem**.
@@ -32,9 +32,9 @@
 
 | Area | What I'm Exploring |
 |------|-------------------|
-| 🤖 AI Ecosystem | Spring AI / Spring AI Alibaba · LangChain · AgentScope Java — agent workflows, RAG pipelines & agent app contributions |
+| 🤖 AI Ecosystem | Spring AI / Spring AI Alibaba · LangChain · AgentScope Java — agents, RAG & tool calling |
 | 🏭 Enterprise Practice | Putting AI skills into real production — from PoC to business impact |
-| 🍵 Java Enterprise | muyi-framework: BOM / Parent / Commons / Starter on Maven Central |
+| 🍵 Java Enterprise | muyi-framework: Spring Boot 4 / Java 21 framework on Maven Central |
 
 ---
 
