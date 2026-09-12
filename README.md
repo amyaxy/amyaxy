@@ -13,7 +13,7 @@
   working on **tool call** and **state persistence**.
 - 😄 Focused on **AI applications** & **Java engineering** — delivering AI into
   production.
-- 📫 [3132670669@qq.com](mailto:3132670669@qq.com) || [github.com/amyaxy](https://github.com/amyaxy)
+- 📫 [3132670669@qq.com](mailto:3132670669@qq.com) || [muyi-tech.github.io](https://muyi-tech.github.io)
 - 🍵 **Keep it simple** — simplicity is the ultimate sophistication.
 - 🌱 Currently exploring: **LangChain ecosystem**.
 - 🤝 Open to collaborating on Java × AI open-source projects.
