@@ -10,7 +10,7 @@
   maintaining [muyi-framework](https://github.com/muyi-tech/muyi-framework)
 - 😄 Focused on **AI applications** & **Java engineering** — delivering AI into
   production.
-- 📫 [3132670669@qq.com](mailto:3132670669@qq.com) || [muyi-tech.github.io](https://muyi-tech.github.io)
+- 📫 [3132670669@qq.com](mailto:3132670669@qq.com) 
 - 🍵 **Keep it simple** — simplicity is the ultimate sophistication.
 - 🌱 Currently exploring: **LangChain ecosystem**.
 - 🤝 Open to collaborating on Java × AI open-source projects.
