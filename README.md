@@ -6,7 +6,7 @@
 
 #### 🧠 About Me
 
-- 🤖 Active contributor
+- 🤖 contributor
   to [AgentScope Java](https://github.com/agentscope-ai/agentscope-java),
   working on **tool call** and **state persistence**.
 - 🚀 Founder of [muyi-tech](https://github.com/muyi-tech),
