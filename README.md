@@ -6,9 +6,6 @@
 
 #### 🧠 About Me
 
-- 🤖 contributor
-  to [AgentScope Java](https://github.com/agentscope-ai/agentscope-java),
-  working on **tool call** and **state persistence**.
 - 🚀 Founder of [muyi-tech](https://github.com/muyi-tech),
   maintaining [muyi-framework](https://github.com/muyi-tech/muyi-framework)
 - 😄 Focused on **AI applications** & **Java engineering** — delivering AI into
@@ -23,10 +20,8 @@
 #### 🔥 Tech Stack & Interests
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/-Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![AgentScope Java](https://img.shields.io/badge/-AgentScope%20Java-6C5CE7?style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ---
 
