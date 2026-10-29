@@ -6,22 +6,11 @@
 
 #### 🧠 About Me
 
-- 🚀 Founder of [muyi-tech](https://github.com/muyi-tech),
-  maintaining [muyi-framework](https://github.com/muyi-tech/muyi-framework)
 - 😄 Focused on **AI applications** & **Java engineering** — delivering AI into
   production.
-- 📫 [3132670669@qq.com](mailto:3132670669@qq.com) 
 - 🍵 **Keep it simple** — simplicity is the ultimate sophistication.
 - 🌱 Currently exploring: **Agentscope ecosystem**.
 - 🤝 Open to collaborating on Java × AI open-source projects.
-
----
-
-#### 🔥 Tech Stack & Interests
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring AI](https://img.shields.io/badge/-Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![AgentScope Java](https://img.shields.io/badge/-AgentScope%20Java-6C5CE7?style=flat-square)
 
 ---
 
