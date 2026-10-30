@@ -18,7 +18,7 @@
 
 | Area | What I'm Exploring |
 |------|-------------------|
-| 🤖 AI Ecosystem | Spring AI · Spring AI Alibaba · LangChain · AgentScope Java — agents, workflow, RAG & tool calling |
+| 🤖 AI Ecosystem | Spring AI · LangChain · LangGraph · AgentScope Java — agents, workflow, RAG & tool |
 | 🏭 Enterprise Practice | Putting AI skills into real production — from PoC to business impact |
 
 ---
